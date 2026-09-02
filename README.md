@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi, I’m Riya 👋
 
-<!--
-**RiyaDan/RiyaDan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Analyst Intern 
 
-Here are some ideas to get you started:
+🎓 Postgraduate in Behavioral Economics & Data Science
+💼 Currently working as a Data Analyst Intern
+📊 Passionate about transforming data into meaningful insights and supporting data-driven decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tools & Technologies
+	•	 Python
+	•	 SQL
+	•	 Power BI
+	•	 Tableau
+	•	 Microsoft Excel
+
+  Currently Learning
+
+Data Analytics | Data Visualization | Machine Learning | AI
+
+🎯 Career Goal
+
+To grow as a Data Analyst and Data Scientist, working on real-world data problems and building impactful, data-driven solutions.
+
+
+
+
